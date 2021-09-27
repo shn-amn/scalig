@@ -2,8 +2,8 @@
 target
 
 # ignore font binaries in master branch:
-Hasklig*.otf
-Hasklig*.ttf
+Scalig*.otf
+Scalig*.ttf
 
 RomanMasters/colors_0
 RomanMasters/colors_1

@@ -1,3 +1,11 @@
+### Scalig - _Hasklig for Scala_
+
+I love Source Code Pro, ligatures, and Haskell -- all that makes [Hasklig](https://github.com/i-tu/Hasklig).
+Yet it so happens that I code in Scala for work.
+Whence Scalig, an extension of [Source Code Pro](https://github.com/adobe-fonts/source-code-pro), which is simply an adaptation of Hasklig's ligatures to Scala. It works well enough, especially if you use [Cats](https://github.com/typelevel/cats) syntax.
+
+The rest is Hasklig's _read me_.
+
 ### Hasklig – _Ligatures for code_
 
 Programming languages are limited to relatively few characters. As a result, combined character operators surfaced quite early, such as the widely used arrow (`->`), comprised of a hyphen and greater sign. It looks like an arrow if you know the analogy and squint a bit.

@@ -32,49 +32,49 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Hasklig" filename="../Instances/ExtraLightIt/font.ufo" postscriptfontname="Hasklig-ExtraLightIt" stylename="ExtraLightIt">
+        <instance familyname="Scalig" filename="../Instances/ExtraLightIt/font.ufo" postscriptfontname="Scalig-ExtraLightIt" stylename="ExtraLightIt">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hasklig" filename="../Instances/LightIt/font.ufo" postscriptfontname="Hasklig-LightIt" stylename="LightIt">
+        <instance familyname="Scalig" filename="../Instances/LightIt/font.ufo" postscriptfontname="Scalig-LightIt" stylename="LightIt">
             <location>
                 <dimension name="weight" xvalue="100" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hasklig" filename="../Instances/It/font.ufo" postscriptfontname="Hasklig-It" stylename="It">
+        <instance familyname="Scalig" filename="../Instances/It/font.ufo" postscriptfontname="Scalig-It" stylename="It">
             <location>
                 <dimension name="weight" xvalue="368" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hasklig" filename="../Instances/MediumIt/font.ufo" postscriptfontname="Hasklig-MediumIt" stylename="MediumIt">
+        <instance familyname="Scalig" filename="../Instances/MediumIt/font.ufo" postscriptfontname="Scalig-MediumIt" stylename="MediumIt">
             <location>
                 <dimension name="weight" xvalue="486" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hasklig" filename="../Instances/SemiboldIt/font.ufo" postscriptfontname="Hasklig-SemiboldIt" stylename="SemiboldIt">
+        <instance familyname="Scalig" filename="../Instances/SemiboldIt/font.ufo" postscriptfontname="Scalig-SemiboldIt" stylename="SemiboldIt">
             <location>
                 <dimension name="weight" xvalue="600" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hasklig" filename="../Instances/BoldIt/font.ufo" postscriptfontname="Hasklig-BoldIt" stylename="BoldIt">
+        <instance familyname="Scalig" filename="../Instances/BoldIt/font.ufo" postscriptfontname="Scalig-BoldIt" stylename="BoldIt">
             <location>
                 <dimension name="weight" xvalue="824" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hasklig" filename="../Instances/BlackIt/font.ufo" postscriptfontname="Hasklig-BlackIt" stylename="BlackIt">
+        <instance familyname="Scalig" filename="../Instances/BlackIt/font.ufo" postscriptfontname="Scalig-BlackIt" stylename="BlackIt">
             <location>
                 <dimension name="weight" xvalue="1000" />
             </location>

@@ -1,1 +1,123 @@
-# [PostScriptName]# 	f=FamilyName# 	s=StyleName# 	l=Windows_Compatible_MenuName# 	m=1,Macintosh_Compatible_MenuName# ====================================================================# Variable fonts[HaskligVariable-Roman]	f=Hasklig Variable	s=Roman[Hasklig_ExtraLight]	f=Hasklig Variable	s=Roman Master 0[Hasklig_Black]	f=Hasklig Variable	s=Roman Master 2#---------------------------------------------------------[HaskligVariable-Italic]	f=Hasklig Variable	s=Italic[Hasklig_ExtraLight-Italic]	f=Hasklig Variable	s=Italic Master 0[Hasklig_Black-Italic]	f=Hasklig Variable	s=Italic Master 2# ====================================================================# Instance fonts[Hasklig-ExtraLight]	f=Hasklig	s=ExtraLight	l=Hasklig ExtraLight	m=1,Hasklig ExtraLight[Hasklig-ExtraLightIt]	f=Hasklig	s=ExtraLight Italic	l=Hasklig ExtraLight	m=1,Hasklig ExtraLight Italic[Hasklig-Light]	f=Hasklig	s=Light	l=Hasklig Light	m=1,Hasklig Light[Hasklig-LightIt]	f=Hasklig	s=Light Italic	l=Hasklig Light	m=1,Hasklig Light Italic[Hasklig-Regular]	f=Hasklig	s=Regular	l=Hasklig	m=1,Hasklig[Hasklig-It]	f=Hasklig	s=Italic	l=Hasklig	m=1,Hasklig Italic[Hasklig-Medium]	f=Hasklig	s=Medium	l=Hasklig Medium	m=1,Hasklig Medium[Hasklig-MediumIt]	f=Hasklig	s=Medium Italic	l=Hasklig Medium	m=1,Hasklig Medium Italic[Hasklig-Semibold]	f=Hasklig	s=Semibold	l=Hasklig Semibold	m=1,Hasklig Semibold[Hasklig-SemiboldIt]	f=Hasklig	s=Semibold Italic	l=Hasklig Semibold	m=1,Hasklig Semibold Italic[Hasklig-Bold]	f=Hasklig	s=Bold	l=Hasklig	m=1,Hasklig Bold[Hasklig-BoldIt]	f=Hasklig	s=Bold Italic	l=Hasklig	m=1,Hasklig Bold Italic[Hasklig-Black]	f=Hasklig	s=Black	l=Hasklig Black	m=1,Hasklig Black[Hasklig-BlackIt]	f=Hasklig	s=Black Italic	l=Hasklig Black	m=1,Hasklig Black Italic
+# [PostScriptName]
+# 	f=FamilyName
+# 	s=StyleName
+# 	l=Windows_Compatible_MenuName
+# 	m=1,Macintosh_Compatible_MenuName
+
+
+# ====================================================================
+# Variable fonts
+
+[ScaligVariable-Roman]
+	f=Scalig Variable
+	s=Roman
+
+[Scalig_ExtraLight]
+	f=Scalig Variable
+	s=Roman Master 0
+
+[Scalig_Black]
+	f=Scalig Variable
+	s=Roman Master 2
+
+#---------------------------------------------------------
+
+[ScaligVariable-Italic]
+	f=Scalig Variable
+	s=Italic
+
+[Scalig_ExtraLight-Italic]
+	f=Scalig Variable
+	s=Italic Master 0
+
+[Scalig_Black-Italic]
+	f=Scalig Variable
+	s=Italic Master 2
+
+
+# ====================================================================
+# Instance fonts
+
+[Scalig-ExtraLight]
+	f=Scalig
+	s=ExtraLight
+	l=Scalig ExtraLight
+	m=1,Scalig ExtraLight
+
+[Scalig-ExtraLightIt]
+	f=Scalig
+	s=ExtraLight Italic
+	l=Scalig ExtraLight
+	m=1,Scalig ExtraLight Italic
+
+[Scalig-Light]
+	f=Scalig
+	s=Light
+	l=Scalig Light
+	m=1,Scalig Light
+
+[Scalig-LightIt]
+	f=Scalig
+	s=Light Italic
+	l=Scalig Light
+	m=1,Scalig Light Italic
+
+[Scalig-Regular]
+	f=Scalig
+	s=Regular
+	l=Scalig
+	m=1,Scalig
+
+[Scalig-It]
+	f=Scalig
+	s=Italic
+	l=Scalig
+	m=1,Scalig Italic
+
+[Scalig-Medium]
+	f=Scalig
+	s=Medium
+	l=Scalig Medium
+	m=1,Scalig Medium
+
+[Scalig-MediumIt]
+	f=Scalig
+	s=Medium Italic
+	l=Scalig Medium
+	m=1,Scalig Medium Italic
+
+[Scalig-Semibold]
+	f=Scalig
+	s=Semibold
+	l=Scalig Semibold
+	m=1,Scalig Semibold
+
+[Scalig-SemiboldIt]
+	f=Scalig
+	s=Semibold Italic
+	l=Scalig Semibold
+	m=1,Scalig Semibold Italic
+
+[Scalig-Bold]
+	f=Scalig
+	s=Bold
+	l=Scalig
+	m=1,Scalig Bold
+
+[Scalig-BoldIt]
+	f=Scalig
+	s=Bold Italic
+	l=Scalig
+	m=1,Scalig Bold Italic
+
+[Scalig-Black]
+	f=Scalig
+	s=Black
+	l=Scalig Black
+	m=1,Scalig Black
+
+[Scalig-BlackIt]
+	f=Scalig
+	s=Black Italic
+	l=Scalig Black
+	m=1,Scalig Black Italic
