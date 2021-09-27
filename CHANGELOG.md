@@ -1,5 +1,7 @@
 
 # Release notes
++ [Scalig v1.0](https://github.com/shn-amn/scalig/releases/tag/v1.0)
+    + Changed the binding of _not equal_ ligature form Haskell's `/=` to Scala's `!=`.
 + [Hasklig v1.2](https://github.com/i-tu/Hasklig/releases/tag/v1.2)
     + Include latest changes from the Source Code Pro repository master branch (adobe-fonts/source-code-pro@14875b7)
     + Resolves Big Sure issue [#123](https://github.com/i-tu/Hasklig/issues/123)

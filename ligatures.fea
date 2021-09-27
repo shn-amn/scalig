@@ -170,10 +170,10 @@ feature calt {
   } asterisk_asterisk_asterisk;
 
   lookup slash_equal {
-    ignore sub slash slash' equal;
-    ignore sub slash' equal equal;
+    ignore sub exclam exclam' equal;
+    ignore sub exclam' equal equal;
     sub LIG equal' by slash_equal;
-    sub slash'  equal  by LIG;
+    sub exclam'  equal  by LIG;
   } slash_equal;
 
   lookup plus_plus {
