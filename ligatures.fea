@@ -23,14 +23,6 @@ feature calt {
     sub period'   period  period  by LIG;
   } period_period_period;
 
-  lookup less_less_less {
-    ignore sub less less' less less;
-    ignore sub less' less less less;
-    sub LIG LIG less' by less_less_less;
-    sub LIG  less' less  by LIG;
-    sub less'   less  less  by LIG;
-  } less_less_less;
-
   lookup less_plus_greater {
     ignore sub less less' plus greater;
     ignore sub less' plus greater greater;
@@ -111,14 +103,6 @@ feature calt {
     sub greater'   greater  hyphen  by LIG;
   } greater_greater_hyphen;
 
-  lookup greater_greater_greater {
-    ignore sub greater greater' greater greater;
-    ignore sub greater' greater greater greater;
-    sub LIG LIG greater' by greater_greater_greater;
-    sub LIG  greater' greater  by LIG;
-    sub greater'   greater  greater  by LIG;
-  } greater_greater_greater;
-
   lookup greater_greater_equal {
     ignore sub greater greater' greater equal;
     ignore sub greater' greater equal equal;
@@ -190,13 +174,6 @@ feature calt {
     sub period'  period  by LIG;
   } period_period;
 
-  lookup less_less {
-    ignore sub less less' less;
-    ignore sub less' less less;
-    sub LIG less' by less_less;
-    sub less'  less  by LIG;
-  } less_less;
-
   lookup less_hyphen {
     ignore sub less less' hyphen;
     ignore sub less' hyphen hyphen;
@@ -245,13 +222,6 @@ feature calt {
     sub LIG hyphen' by greater_hyphen;
     sub greater'  hyphen  by LIG;
   } greater_hyphen;
-
-  lookup greater_greater {
-    ignore sub greater greater' greater;
-    ignore sub greater' greater greater;
-    sub LIG greater' by greater_greater;
-    sub greater'  greater  by LIG;
-  } greater_greater;
 
   lookup exclam_exclam {
     ignore sub exclam exclam' exclam;
