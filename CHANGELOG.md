@@ -1,5 +1,7 @@
 
 # Release notes
++ [Rustlig v1.0](https://github.com/shn-amn/scalig/releases/tag/v1.0)
+    + Changed the binding of _not equal_ ligature form Haskell's `/=` to Scala's `!=`.
 + [Scalig v1.0](https://github.com/shn-amn/scalig/releases/tag/v1.0)
     + Changed the binding of _not equal_ ligature form Haskell's `/=` to Scala's `!=`.
 + [Hasklig v1.2](https://github.com/i-tu/Hasklig/releases/tag/v1.2)

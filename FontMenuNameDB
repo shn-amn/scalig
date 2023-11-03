@@ -8,116 +8,116 @@
 # ====================================================================
 # Variable fonts
 
-[ScaligVariable-Roman]
-	f=Scalig Variable
+[RustligVariable-Roman]
+	f=Rustlig Variable
 	s=Roman
 
-[Scalig_ExtraLight]
-	f=Scalig Variable
+[Rustlig_ExtraLight]
+	f=Rustlig Variable
 	s=Roman Master 0
 
-[Scalig_Black]
-	f=Scalig Variable
+[Rustlig_Black]
+	f=Rustlig Variable
 	s=Roman Master 2
 
 #---------------------------------------------------------
 
-[ScaligVariable-Italic]
-	f=Scalig Variable
+[RustligVariable-Italic]
+	f=Rustlig Variable
 	s=Italic
 
-[Scalig_ExtraLight-Italic]
-	f=Scalig Variable
+[Rustlig_ExtraLight-Italic]
+	f=Rustlig Variable
 	s=Italic Master 0
 
-[Scalig_Black-Italic]
-	f=Scalig Variable
+[Rustlig_Black-Italic]
+	f=Rustlig Variable
 	s=Italic Master 2
 
 
 # ====================================================================
 # Instance fonts
 
-[Scalig-ExtraLight]
-	f=Scalig
+[Rustlig-ExtraLight]
+	f=Rustlig
 	s=ExtraLight
-	l=Scalig ExtraLight
-	m=1,Scalig ExtraLight
+	l=Rustlig ExtraLight
+	m=1,Rustlig ExtraLight
 
-[Scalig-ExtraLightIt]
-	f=Scalig
+[Rustlig-ExtraLightIt]
+	f=Rustlig
 	s=ExtraLight Italic
-	l=Scalig ExtraLight
-	m=1,Scalig ExtraLight Italic
+	l=Rustlig ExtraLight
+	m=1,Rustlig ExtraLight Italic
 
-[Scalig-Light]
-	f=Scalig
+[Rustlig-Light]
+	f=Rustlig
 	s=Light
-	l=Scalig Light
-	m=1,Scalig Light
+	l=Rustlig Light
+	m=1,Rustlig Light
 
-[Scalig-LightIt]
-	f=Scalig
+[Rustlig-LightIt]
+	f=Rustlig
 	s=Light Italic
-	l=Scalig Light
-	m=1,Scalig Light Italic
+	l=Rustlig Light
+	m=1,Rustlig Light Italic
 
-[Scalig-Regular]
-	f=Scalig
+[Rustlig-Regular]
+	f=Rustlig
 	s=Regular
-	l=Scalig
-	m=1,Scalig
+	l=Rustlig
+	m=1,Rustlig
 
-[Scalig-It]
-	f=Scalig
+[Rustlig-It]
+	f=Rustlig
 	s=Italic
-	l=Scalig
-	m=1,Scalig Italic
+	l=Rustlig
+	m=1,Rustlig Italic
 
-[Scalig-Medium]
-	f=Scalig
+[Rustlig-Medium]
+	f=Rustlig
 	s=Medium
-	l=Scalig Medium
-	m=1,Scalig Medium
+	l=Rustlig Medium
+	m=1,Rustlig Medium
 
-[Scalig-MediumIt]
-	f=Scalig
+[Rustlig-MediumIt]
+	f=Rustlig
 	s=Medium Italic
-	l=Scalig Medium
-	m=1,Scalig Medium Italic
+	l=Rustlig Medium
+	m=1,Rustlig Medium Italic
 
-[Scalig-Semibold]
-	f=Scalig
+[Rustlig-Semibold]
+	f=Rustlig
 	s=Semibold
-	l=Scalig Semibold
-	m=1,Scalig Semibold
+	l=Rustlig Semibold
+	m=1,Rustlig Semibold
 
-[Scalig-SemiboldIt]
-	f=Scalig
+[Rustlig-SemiboldIt]
+	f=Rustlig
 	s=Semibold Italic
-	l=Scalig Semibold
-	m=1,Scalig Semibold Italic
+	l=Rustlig Semibold
+	m=1,Rustlig Semibold Italic
 
-[Scalig-Bold]
-	f=Scalig
+[Rustlig-Bold]
+	f=Rustlig
 	s=Bold
-	l=Scalig
-	m=1,Scalig Bold
+	l=Rustlig
+	m=1,Rustlig Bold
 
-[Scalig-BoldIt]
-	f=Scalig
+[Rustlig-BoldIt]
+	f=Rustlig
 	s=Bold Italic
-	l=Scalig
-	m=1,Scalig Bold Italic
+	l=Rustlig
+	m=1,Rustlig Bold Italic
 
-[Scalig-Black]
-	f=Scalig
+[Rustlig-Black]
+	f=Rustlig
 	s=Black
-	l=Scalig Black
-	m=1,Scalig Black
+	l=Rustlig Black
+	m=1,Rustlig Black
 
-[Scalig-BlackIt]
-	f=Scalig
+[Rustlig-BlackIt]
+	f=Rustlig
 	s=Black Italic
-	l=Scalig Black
-	m=1,Scalig Black Italic
+	l=Rustlig Black
+	m=1,Rustlig Black Italic

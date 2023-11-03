@@ -36,49 +36,49 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Scalig" filename="../Instances/ExtraLight/font.ufo" postscriptfontname="Scalig-ExtraLight" stylename="ExtraLight">
+        <instance familyname="Rustlig" filename="../Instances/ExtraLight/font.ufo" postscriptfontname="Rustlig-ExtraLight" stylename="ExtraLight">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Scalig" filename="../Instances/Light/font.ufo" postscriptfontname="Scalig-Light" stylename="Light">
+        <instance familyname="Rustlig" filename="../Instances/Light/font.ufo" postscriptfontname="Rustlig-Light" stylename="Light">
             <location>
                 <dimension name="weight" xvalue="100" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Scalig" filename="../Instances/Regular/font.ufo" postscriptfontname="Scalig-Regular" stylename="Regular">
+        <instance familyname="Rustlig" filename="../Instances/Regular/font.ufo" postscriptfontname="Rustlig-Regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="368" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Scalig" filename="../Instances/Medium/font.ufo" postscriptfontname="Scalig-Medium" stylename="Medium">
+        <instance familyname="Rustlig" filename="../Instances/Medium/font.ufo" postscriptfontname="Rustlig-Medium" stylename="Medium">
             <location>
                 <dimension name="weight" xvalue="486" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Scalig" filename="../Instances/Semibold/font.ufo" postscriptfontname="Scalig-Semibold" stylename="Semibold">
+        <instance familyname="Rustlig" filename="../Instances/Semibold/font.ufo" postscriptfontname="Rustlig-Semibold" stylename="Semibold">
             <location>
                 <dimension name="weight" xvalue="600" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Scalig" filename="../Instances/Bold/font.ufo" postscriptfontname="Scalig-Bold" stylename="Bold">
+        <instance familyname="Rustlig" filename="../Instances/Bold/font.ufo" postscriptfontname="Rustlig-Bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="824" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Scalig" filename="../Instances/Black/font.ufo" postscriptfontname="Scalig-Black" stylename="Black">
+        <instance familyname="Rustlig" filename="../Instances/Black/font.ufo" postscriptfontname="Rustlig-Black" stylename="Black">
             <location>
                 <dimension name="weight" xvalue="1000" />
             </location>

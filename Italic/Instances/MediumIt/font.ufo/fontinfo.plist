@@ -11,7 +11,7 @@
 		<key>descender</key>
 		<integer>-200</integer>
 		<key>familyName</key>
-		<string>Scalig</string>
+		<string>Rustlig</string>
 		<key>guidelines</key>
 		<array>
 		</array>
@@ -57,7 +57,7 @@
 			<integer>-205</integer>
 		</array>
 		<key>postscriptFontName</key>
-		<string>Scalig-MediumIt</string>
+		<string>Rustlig-MediumIt</string>
 		<key>postscriptIsFixedPitch</key>
 		<true/>
 		<key>postscriptOtherBlues</key>

@@ -1,8 +1,11 @@
-### Scalig - _Hasklig for Scala_
+### Rustlig - _Hasklig for Rust_
 
 I love Source Code Pro, ligatures, and Haskell -- all that makes [Hasklig](https://github.com/i-tu/Hasklig).
-Yet it so happens that I code in Scala for work.
-Whence Scalig, an extension of [Source Code Pro](https://github.com/adobe-fonts/source-code-pro), which is simply an adaptation of Hasklig's ligatures to Scala. It works well enough, especially if you use [Cats](https://github.com/typelevel/cats) syntax.
+Yet it so happens that I code in Scala and Rust for work.
+Whence Scalig and Rustlig,
+extensions of [Source Code Pro](https://github.com/adobe-fonts/source-code-pro),
+which are simply adaptations of Hasklig's ligatures to Scala and Rust.
+They work well enough, especially if you use [Cats](https://github.com/typelevel/cats) in Scala.
 
 The rest is Hasklig's _read me_.
 

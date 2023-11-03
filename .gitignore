@@ -4,6 +4,8 @@ target
 # ignore font binaries in master branch:
 Scalig*.otf
 Scalig*.ttf
+Rsutlig*.otf
+Rustlig*.ttf
 
 RomanMasters/colors_0
 RomanMasters/colors_1
